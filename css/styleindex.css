@@ -1,0 +1,92 @@
+h1{
+    margin-left: 550px;
+    color: rgb(36, 110, 194);
+}
+a{
+    font: normal 15pt Verdana;
+    margin-left: 1200px;
+    margin-top: 25px;
+    text-decoration: none;
+}
+
+body{
+    background-color: cornsilk;
+}
+div{
+    border-radius: 50%;
+    display: inline-block;
+}
+
+div#divcomutacao{
+    background-color: rgb(36, 110, 194);
+    color: white;
+    font: normal 14pt Verdana;
+    width: 1250px;
+    height: 120px ;
+    line-height: 120px;
+    text-align: center;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+
+div#divtipos{
+    background-color: rgb(36, 110, 194);
+    color: white;
+    font: normal 18pt Verdana;
+    width: 750px;
+    height: 100px ;
+    line-height: 100px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+div#divtipouni{
+    background-color: cornsilk;
+    color: white;
+    font: normal 18pt Verdana;
+    width: 220px;
+    height: 220px ;
+    line-height: 200px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 140px;
+}
+
+div#divtipomulti{
+    background-color: cornsilk;
+    color: white;
+    font: normal 18pt Verdana;
+    width: 220px;
+    height: 220px ;
+    line-height: 200px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+div#divtipoany{
+    background-color: cornsilk;
+    color: black;
+    font: normal 18pt Verdana;
+    width: 220px;
+    height: 220px ;
+    line-height: 200px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+div#divtipobroad{
+    background-color: cornsilk;
+    color: white;
+    font: normal 18pt Verdana;
+    width: 220px;
+    height: 220px ;
+    line-height: 200px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+

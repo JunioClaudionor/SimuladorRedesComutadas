@@ -1,0 +1,130 @@
+p{
+    margin-top: 10px;
+    color: white;
+    font: normal 18pt Verdana;
+}
+    
+body{
+    background-color: cornsilk;
+}
+div{
+    display: inline-block;
+    border-radius: 6%;
+}
+a{
+    font: normal 15pt Verdana;
+    margin-left: 1100px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+div#area1{
+    background-color: rgb(36, 110, 194);
+    color: white;
+    font: normal 18pt Verdana;
+    width: 220px;
+    height: 220px ;
+    text-align: center; 
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+div#area2{
+    background-color: rgb(36, 110, 194);
+    color: white;
+    font: normal 18pt Verdana;
+    width: 220px;
+    height: 220px ;
+    line-height: 200px;
+    text-align: center;
+    margin-left: 80px;
+
+}
+
+div#area3{
+    background-color: rgb(36, 110, 194);
+    color: white;
+    font: normal 18pt Verdana;
+    width: 220px;
+    height: 220px ;
+    line-height: 200px;
+    text-align: center;
+    margin-left: 80px;
+}
+
+div#area4{
+    background-color: rgb(36, 110, 194);
+    color: white;
+    font: normal 18pt Verdana;
+    width: 220px;
+    height: 220px ;
+    line-height: 200px;
+    text-align: center;
+    margin-left: 250px;
+}
+
+div#area5{
+    background-color: rgb(36, 110, 194);
+    color: white;
+    font: normal 18pt Verdana;
+    width: 220px;
+    height: 220px ;
+    line-height: 200px;
+    text-align: center;
+    margin-left: 80px;
+}
+
+div#area6{
+    background-color: rgb(36, 110, 194);
+    color: white;
+    font: normal 18pt Verdana;
+    width: 220px;
+    height: 220px ;
+    line-height: 200px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+div#unicast{
+    background-color: rgb(13, 14, 13);
+    color: white;
+    font: normal 12pt Verdana;
+    width: 160px;
+    height: 25px;
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+div#multicast{
+    background-color: rgb(212, 14, 14);
+    color: white;
+    font: normal 12pt Verdana;
+    width: 160px;
+    height: 25px;
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+
+div#anycast{
+    background-color: rgb(228, 231, 25);
+    color: black;
+    font: normal 12pt Verdana;
+    width: 160px;
+    height: 25px;
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+div#broadcast{
+    background-color: rgb(43, 165, 12);
+    color: white;
+    font: normal 12pt Verdana;
+    width: 160px;
+    height: 25px;
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 10px;
+}
